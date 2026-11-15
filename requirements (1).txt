@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+pyarrow
+pyspark
+# jinja2 is only used for the colored ROAS table in the notebook
+jinja2
